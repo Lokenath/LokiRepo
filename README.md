@@ -1,2 +1,2 @@
-# LokiRepo
+# Loki Repository
 My First Repository
